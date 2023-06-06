@@ -28,8 +28,8 @@ body,html{
 }
 .title{
     position: absolute;
-    /* top: 50%;
-    left: 50%; */
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(255, 254, 254);
     font-size: 62px;
@@ -39,8 +39,8 @@ body,html{
 }
 .title-line{
     position: absolute;
-    /* top: 65%;
-    left: 50%; */
+    top: 65%;
+    left: 50%;
     transform: translate(-50%, -50%);
     color: aliceblue;
     text-shadow: 2px -2px 5px rgb(0, 0, 0);
